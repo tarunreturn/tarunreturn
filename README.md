@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar Dukka</h1>
 <h3 align="center">Future DevOps Engineer | Embracing AWS, Cloud Automation, and CI/CD</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/220/220900.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/S60CrN9iMxFlyp7uM8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunreturn&label=Profile%20views&color=0e75b6&style=flat" alt="tarunreturn" /> </p>
 
