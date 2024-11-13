@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar Dukka</h1>
 <h3 align="center">Future DevOps Engineer | Embracing AWS, Cloud Automation, and CI/CD</h3>
-img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif"
+img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunreturn&label=Profile%20views&color=0e75b6&style=flat" alt="tarunreturn" /> </p>
 
