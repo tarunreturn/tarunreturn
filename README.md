@@ -3,7 +3,7 @@
 </p> 
 <h1 align="center">Hi 👋, I'm Tarun Kumar Dukka</h1>
 <h3 align="center">Future DevOps Engineer | Embracing AWS, Cloud Automation, and CI/CD</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/6985884/screenshots/15849160/media/7c606a3edf6f0a10336d4d2a6280b058.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunreturn&label=Profile%20views&color=0e75b6&style=flat" alt="tarunreturn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunreturn" alt="tarunreturn" /></a> </p>
